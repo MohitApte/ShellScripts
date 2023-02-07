@@ -1,0 +1,212 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.4)  7 FEB 2023 16:49
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./APTE_MOHIT_PARAG_112103012_Div1_S1_DTLassignment3.tex
+(APTE_MOHIT_PARAG_112103012_Div1_S1_DTLassignment3.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28> (C:\Miktex\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Miktex\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Miktex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Miktex\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Miktex\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Miktex\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Miktex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Miktex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen139
+\stockheight=\dimen140
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Miktex\tex/latex/csvsimple\csvsimple.sty
+(C:\Miktex\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+(C:\Miktex\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-09-28 L3 programming layer (loader) 
+
+(C:\Miktex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box51
+))
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+)
+Package: csvsimple 2022/09/20 v2.3.2 LaTeX CSV file processing
+)
+(C:\Miktex\tex/latex/csvsimple\csvsimple-legacy.sty
+Package: csvsimple-legacy 2022/09/20 version 2.3.2 LaTeX2e CSV file processing
+
+(C:\Miktex\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Miktex\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen143
+\pgfutil@tempdimb=\dimen144
+
+(C:\Miktex\tex/generic/pgf/utilities\pgfutil-common-lists.tex))
+(C:\Miktex\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box52
+)
+(C:\Miktex\tex/generic/pgf/utilities\pgfrcs.code.tex
+(C:\Miktex\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Miktex\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Miktex\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(C:\Miktex\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks20
+)))
+(C:\Miktex\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Miktex\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count194
+)
+(C:\Miktex\tex/latex/tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\csv@file=\read2
+\c@csvinputline=\count195
+\c@csvrow=\count196
+\c@csvcol=\count197
+\csv@out=\write3
+)
+(APTE_MOHIT_PARAG_112103012_Div1_S1_DTLassignment3.aux)
+\openout1 = `APTE_MOHIT_PARAG_112103012_Div1_S1_DTLassignment3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(C:\Miktex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen145
+\scratchbox=\box53
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen146
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks22
+) (C:\Miktex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Miktex\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 9.
+ [1
+
+{C:/Users/mohit/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<./images//stock.jpeg, id=9, 197.73875pt x 123.46124pt>
+File: ./images//stock.jpeg Graphic file (type jpg)
+<use ./images//stock.jpeg>
+Package pdftex.def Info: ./images//stock.jpeg  used on input line 18.
+(pdftex.def)             Requested size: 345.0pt x 215.4255pt.
+<./images//stock3.jpg, id=10, 1505.625pt x 1022.82124pt>
+File: ./images//stock3.jpg Graphic file (type jpg)
+<use ./images//stock3.jpg>
+Package pdftex.def Info: ./images//stock3.jpg  used on input line 19.
+(pdftex.def)             Requested size: 345.0pt x 234.36995pt.
+<./images//trends.png, id=11, 528.97626pt x 310.66063pt>
+File: ./images//trends.png Graphic file (type png)
+<use ./images//trends.png>
+Package pdftex.def Info: ./images//trends.png  used on input line 25.
+(pdftex.def)             Requested size: 345.0pt x 202.61435pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 25--29
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
+
+ []
+
+[2 <./images//stock.jpeg> <./images//stock3.jpg>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 30.
+ [3 <./images//trends.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 47.
+
+Overfull \hbox (87.52385pt too wide) in paragraph at lines 47--48
+ [][] 
+ []
+
+[4] (APTE_MOHIT_PARAG_112103012_Div1_S1_DTLassignment3.aux) ) 
+Here is how much of TeX's memory you used:
+ 3122 strings out of 475385
+ 62153 string characters out of 2793322
+ 402256 words of memory out of 3000000
+ 24478 multiletter control sequences out of 15000+600000
+ 474129 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,6n,77p,347b,279s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Miktex/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb><C:/Miktex/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><C:/Miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Miktex/fonts/ty
+pe1/public/amsfonts/cm/cmr17.pfb>
+Output written on APTE_MOHIT_PARAG_112103012_Div1_S1_DTLassignment3.pdf (4 page
+s, 245955 bytes).
+PDF statistics:
+ 40 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
